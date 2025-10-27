@@ -1,0 +1,105 @@
+﻿patient,age,gender,educ,hyp,fbs,malaria
+1,79,Male,Primary school,Yes,8.7,Negative
+2,59,Female,No formal education,No,6.3,Positive
+3,36,Male,Secondary school,No,5.8,Negative
+4,57,Male,Secondary school,No,4.9,Negative
+5,45,Female,Tertiary,No,6.5,Negative
+6,72,Male,No formal education,Yes,4.2,Negative
+7,54,Female,No formal education,Yes,4.5,Negative
+8,51,Male,Primary school,Yes,8.7,Negative
+9,66,Female,No formal education,No,6.3,Positive
+10,62,Male,Secondary school,No,5.8,Negative
+11,59,Male,Secondary school,No,4.9,Negative
+12,60,Female,Tertiary,No,6.5,Negative
+13,39,Male,No formal education,Yes,4.2,Negative
+14,48,Female,No formal education,Yes,4.5,Negative
+15,46,Male,Primary school,Yes,8.7,Negative
+16,40,Female,No formal education,No,6.3,Positive
+17,39,Male,Secondary school,No,5.8,Negative
+18,32,Male,Secondary school,No,4.9,Negative
+19,54,Female,Tertiary,No,6.5,Negative
+20,77,Male,No formal education,Yes,4.2,Negative
+21,27,Female,No formal education,Yes,6.5,Negative
+22,65,Male,No formal education,Yes,4.2,Negative
+23,64,Female,No formal education,Yes,4.5,Negative
+24,45,Male,Primary school,Yes,8.7,Negative
+25,23,Female,No formal education,No,6.3,Positive
+26,43,Male,Secondary school,No,5.8,Negative
+27,44,Male,Secondary school,No,4.9,Negative
+28,54,Female,Tertiary,No,6.5,Negative
+29,52,Male,No formal education,Yes,4.2,Negative
+30,72,Female,No formal education,Yes,4.2,Negative
+31,49,Male,Primary school,Yes,5.1,Negative
+32,48,Female,No formal education,No,5.0,Positive
+33,46,Male,Secondary school,No,5.0,Negative
+34,40,Male,Secondary school,No,4.9,Negative
+35,39,Female,Tertiary,No,4.9,Negative
+36,32,Male,No formal education,Yes,4.8,Negative
+37,54,Female,No formal education,Yes,4.8,Negative
+38,77,Male,Primary school,Yes,4.7,Negative
+39,27,Female,No formal education,No,4.6,Positive
+40,65,Male,Secondary school,No,4.6,Negative
+41,64,Male,Secondary school,No,4.5,Negative
+42,45,Female,Tertiary,No,4.5,Negative
+43,23,Male,No formal education,Yes,4.4,Negative
+44,46,Female,No formal education,Yes,4.4,Negative
+45,40,Male,No formal education,Yes,4.3,Negative
+46,39,Female,No formal education,Yes,4.2,Negative
+47,32,Male,Primary school,Yes,4.2,Negative
+48,54,Female,No formal education,No,4.1,Positive
+49,77,Male,Secondary school,No,4.1,Negative
+50,27,Male,Secondary school,No,4.0,Negative
+51,65,Female,Tertiary,No,4.0,Negative
+52,64,Male,No formal education,Yes,3.9,Negative
+53,45,Female,No formal education,Yes,3.8,Negative
+54,23,Male,Primary school,Yes,3.8,Negative
+55,43,Female,No formal education,No,3.7,Positive
+56,46,Male,Secondary school,No,3.7,Negative
+57,40,Male,Secondary school,No,3.6,Negative
+58,39,Female,Tertiary,No,3.6,Negative
+59,32,Male,No formal education,Yes,3.5,Negative
+60,54,Female,No formal education,Yes,3.4,Negative
+61,77,Male,Primary school,Yes,3.4,Negative
+62,27,Female,No formal education,No,3.3,Positive
+63,65,Male,Secondary school,No,3.3,Negative
+64,64,Male,Secondary school,No,3.2,Negative
+65,45,Female,Tertiary,No,3.2,Negative
+66,23,Male,No formal education,Yes,3.1,Negative
+67,46,Female,No formal education,Yes,3.0,Negative
+68,40,Male,No formal education,Yes,3.0,Negative
+69,39,Female,No formal education,Yes,2.9,Negative
+70,32,Male,Primary school,Yes,2.9,Negative
+71,54,Female,No formal education,No,2.8,Positive
+72,77,Male,Secondary school,No,2.8,Negative
+73,27,Male,Secondary school,No,2.7,Negative
+74,65,Female,Tertiary,No,2.6,Negative
+75,64,Male,No formal education,Yes,2.6,Negative
+76,46,Female,No formal education,Yes,2.5,Negative
+77,40,Male,Primary school,Yes,2.5,Negative
+78,39,Female,No formal education,No,2.4,Positive
+79,32,Male,Secondary school,No,2.4,Negative
+80,54,Male,Secondary school,No,2.3,Negative
+81,77,Female,Tertiary,No,2.2,Negative
+82,27,Male,No formal education,Yes,2.2,Negative
+83,65,Female,No formal education,Yes,2.1,Negative
+84,64,Male,Primary school,Yes,2.1,Negative
+85,45,Female,No formal education,No,2.0,Positive
+86,23,Male,Secondary school,No,2.0,Negative
+87,43,Male,Secondary school,No,1.9,Negative
+88,44,Female,Tertiary,No,1.8,Negative
+89,54,Male,No formal education,Yes,1.8,Negative
+90,46,Female,No formal education,Yes,1.7,Negative
+91,40,Male,No formal education,Yes,1.7,Negative
+92,39,Female,No formal education,Yes,1.6,Negative
+93,32,Male,Primary school,Yes,1.6,Negative
+94,54,Female,No formal education,No,1.5,Positive
+95,77,Male,Secondary school,No,1.4,Negative
+96,27,Male,Secondary school,No,1.4,Negative
+97,65,Female,Tertiary,No,1.3,Negative
+98,64,Male,No formal education,Yes,1.3,Negative
+99,45,Female,No formal education,Yes,1.2,Negative
+100,23,Male,Primary school,Yes,1.2,Negative
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
